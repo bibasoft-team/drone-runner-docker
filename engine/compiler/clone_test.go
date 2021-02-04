@@ -7,9 +7,9 @@ package compiler
 import (
 	"testing"
 
+	"github.com/bibasoft-team/drone-runner-docker/engine"
+	"github.com/bibasoft-team/drone-runner-docker/engine/resource"
 	"github.com/dchest/uniuri"
-	"github.com/drone-runners/drone-runner-docker/engine"
-	"github.com/drone-runners/drone-runner-docker/engine/resource"
 	"github.com/drone/drone-go/drone"
 	"github.com/drone/runner-go/environ/provider"
 	"github.com/drone/runner-go/manifest"

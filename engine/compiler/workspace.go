@@ -8,8 +8,8 @@ import (
 	stdpath "path"
 	"strings"
 
-	"github.com/drone-runners/drone-runner-docker/engine"
-	"github.com/drone-runners/drone-runner-docker/engine/resource"
+	"github.com/bibasoft-team/drone-runner-docker/engine"
+	"github.com/bibasoft-team/drone-runner-docker/engine/resource"
 )
 
 const (

@@ -5,10 +5,10 @@
 package compiler
 
 import (
-	"github.com/drone-runners/drone-runner-docker/engine"
-	"github.com/drone-runners/drone-runner-docker/engine/compiler/shell"
-	"github.com/drone-runners/drone-runner-docker/engine/compiler/shell/powershell"
-	"github.com/drone-runners/drone-runner-docker/engine/resource"
+	"github.com/bibasoft-team/drone-runner-docker/engine"
+	"github.com/bibasoft-team/drone-runner-docker/engine/compiler/shell"
+	"github.com/bibasoft-team/drone-runner-docker/engine/compiler/shell/powershell"
+	"github.com/bibasoft-team/drone-runner-docker/engine/resource"
 )
 
 // helper function configures the pipeline script for the
